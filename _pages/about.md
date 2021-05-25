@@ -52,7 +52,7 @@ Control of Attention](../files/GuQL-etal-thalamusTopDown-2020.pdf). bioRxiv. [ht
 
 
 
-### Conference posters
+### Conference
 #### 2020
 **Qinglong L. Gu**, Norman H. Lam, MichaelM. Halassa, John D.Murray (February 2020). [Mechanisms of top-down attentional control in thalamic reticular circuit](../files/abstracts/2020Cosyne-Gu_etal/cosyne_2020_Poster_QinglongGu_NormanLam.pdf). Poster at Computational and Systems Neuroscience (_Cosyne_).
 
