@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Takuya Ito"
+title                    : "Qinglong Gu"
 title_separator          : "-"
-name                     : &name "Takuya Ito"
+name                     : &name "Qinglong Gu"
 description              : &description "personal description"
-url                      : "https://ito-takuya.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://GuQinglong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ito-takuya/ito-takuya.github.io"
+repository               : "GuQinglong/GuQinglong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
