@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at Yale University School of Medicine, working primarily with John Murray. I was previously a PhD student at Rutgers University with Michael Cole.
+I am a postdoctoral associate at Yale University School of Medicine, working with Prof. John Murray. I was previously a PhD student at Shanghai Jiao Tong University with Prof. David Cai and Douglas Zhou.
 
-I am based in NYC.
+I am based in New Haven.
 
-[My CV](https://drive.google.com/file/d/1cLgXEmyrlHZD2wCkNwL7Ih574o6ubtcQ/view?usp=sharing)
+[My CV](../files/CV_QinglongGu.pdf)
 
 ### Research Interest
 
