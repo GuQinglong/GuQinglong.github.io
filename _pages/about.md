@@ -39,8 +39,8 @@ Mathematics<br/>
 
 ### Publications
 #### 2020
-**Qinglong L. Gu**, Norman H. Lam,MichaelM. Halassa, John D.Murray (2021). Computational Circuit Mechanisms Underlying Thalamic
-Control of Attention. bioRxiv. [https://doi.org/10.1101/2020.09.16.300749](https://doi.org/10.1101/2020.09.16.300749)
+**Qinglong L. Gu**, Norman H. Lam,MichaelM. Halassa, John D.Murray (2021). [Computational Circuit Mechanisms Underlying Thalamic
+Control of Attention](../files/GuQL-etal-thalamusTopDown-2020.pdf). bioRxiv. [https://doi.org/10.1101/2020.09.16.300749](https://doi.org/10.1101/2020.09.16.300749)
 
 #### 2019
 **Qinglong L. Gu**, Yanyang Xiao, Songting Li, and Douglas Zhou (2019). [Emergence of spatially periodic diffusive waves in small-world neuronal network](../files/publications/GuQL-etal-DiffusiveWave-2019.pdf). Physical Review E. [https://doi.org/10.1103/PhysRevE.100.042401](https://doi.org/10.1103/PhysRevE.100.042401)
@@ -48,7 +48,7 @@ Control of Attention. bioRxiv. [https://doi.org/10.1101/2020.09.16.300749](https
 #### 2018
 **Qing-long L. Gu**, Zhong-qi K. Tian, Gregor Kovacic, Douglas Zhou and David Cai (2018). [The Dynamics of Balanced Spiking Neuronal Networks Under Poisson Drive Is Not Chaotic](../files/publications/GuQL-etal-2018-NonChaotic-Balanced-Network.pdf). Frontiers in Computational Neuroscice. [https://doi.org/10.3389/fncom.2018.00047](https://doi.org/10.3389/fncom.2018.00047)
 
-**Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). [Balanced Active Core in Heterogeneous Neuronal Networks](../files/publications/GuQL-etal-BalancedCore-2018.pdf). Frontiers in Computational Neuroscice. [https://doi.org/10.3389/fncom.2018.00109](https://doi.org/10.3389/fncom.2018.00109)
+**Qing-long L. Gu**, Songting Li, Wei P. Dai, Douglas Zhou and David Cai (2018). [Balanced Active Core in Heterogeneous Neuronal Networks](../files/publications/GuQL-etal-BalancedCore-2018.pdf). Frontiers in Computational Neuroscice. [https://doi.org/10.3389/fncom.2018.00109](https://doi.org/10.3389/fncom.2018.00109)
 
 
 
