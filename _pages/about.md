@@ -9,9 +9,7 @@ redirect_from:
 ---
 I am a postdoctoral associate at Yale University School of Medicine, working with Prof. John Murray. I was previously a PhD student at Shanghai Jiao Tong University with Prof. David Cai and Douglas Zhou.
 
-I am based in New Haven.
-
-[My CV](../files/CV_QinglongGu.pdf)
+Please find more about my academic and professional bacground from my [CV](../files/CV_QinglongGu.pdf).
 
 ### Research Interest
 
@@ -55,11 +53,12 @@ Mathematics<br/>
 #### 2020
 **Qinglong L. Gu**, Norman H. Lam, MichaelM. Halassa, John D.Murray (February 2020). [Mechanisms of top-down attentional control in thalamic reticular circuit](../files/abstracts/2020Cosyne-Gu_etal/cosyne_2020_Poster_QinglongGu_NormanLam.pdf). Poster at Computational and Systems Neuroscience (_Cosyne_).
 
-
 #### 2019
 **Qinglong L. Gu**, Norman H. Lam, MichaelM. Halassa, John D.Murray (October 2019). [Mechanisms of top-down attentional control in thalamic
 reticular circuits and effects of inhibitory dysfunction](../files/abstracts/2019SFN-Gu_etal/SfN_2019_Poster_QinglongGu_NormanLam.pdf). Poster at Society for Neuroscience (_SfN_).
 
+#### 2017
+**Qing-long L. Gu**, Songting Li, Wei P. Dai, Douglas Zhou and David Cai (May 2017). Emergence of a balanced core through dynamical computation in inhomogeneous neuronal networks. Oral talk at SIAM Conference on Applications of Dynamical Systems.
 
 
 
@@ -71,11 +70,3 @@ reticular circuits and effects of inhibitory dysfunction](../files/abstracts/201
 
 
 
-
-
-
-
-
-
-
- -->
