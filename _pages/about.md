@@ -21,17 +21,14 @@ neuroimaging data, and cognitive behavioral data. I used a combination of statis
 ### Education
 
 Shanghai Jiao Tong University<br/>
-PhD (2013-2018)<br/>
-Mathematics<br/>
+Ph.D. Mathematics, (2013-2018)<br/>
 Dissertation: _Balanced network in Neuronal Networks_
 
 Shanghai Jiao Tong University<br/>
-M.S. (2011-2013)<br/>
-Mathematics<br/>
+M.S. Mathematics, (2011-2013)<br/>
 
 Shanghai Jiao Tong University<br/>
-B.S. (2007-2011)<br/>
-Mathematics<br/>
+B.S. Mathematics, (2007-2011)<br/>
 
 
 ### Publications
