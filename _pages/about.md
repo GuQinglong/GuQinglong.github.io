@@ -15,25 +15,25 @@ I am based in New Haven.
 
 ### Research Interest
 
-I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational and network principles of how the brain implements flexible behaviors across many tasks. I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other data modalities.
-
-Separately, I have interests in neural network modeling, network science, dynamical systems theory, and machine learning.
+I investigate cognitive neuronal dynamics through microcircuit models, and try to gain insights into the distributed computational mechanisms of various cognitive processes through large-scale modeling. The close interplay between modeling and experiment is at the heart of my research program. In the past, I have collaborated with experimentalists and analyzed data across a range of levels: neuronal spike train data,
+neuroimaging data, and cognitive behavioral data. I used a combination of statistical analysis and mathematical/computational modeling. 
 
 
 
 ### Education
 
-Rutgers University<br/>
-PhD (2015-2020)<br/>
-Neuroscience<br/>
-Dissertation: _Cognitive Information Transformation in Functional Brain Networks_
+Shanghai Jiao Tong University<br/>
+PhD (2013-2018)<br/>
+Mathematics<br/>
+Dissertation: _Balanced network in Neuronal Networks_
 
+Shanghai Jiao Tong University<br/>
+Master (2011-2013)<br/>
+Mathematics<br/>
 
-
-Washington University in St. Louis<br/>
-BA (2009-2013)<br/>
-Majors: Mathematics, Philosophy-Neuroscience-Psychology<br/>
-Minor: Computer Science
+Shanghai Jiao Tong University<br/>
+B.S. (2007-2011)<br/>
+Mathematics<br/>
 
 
 
