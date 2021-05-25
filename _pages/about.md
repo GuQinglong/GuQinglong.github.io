@@ -26,7 +26,7 @@ Mathematics<br/>
 Dissertation: _Balanced network in Neuronal Networks_
 
 Shanghai Jiao Tong University<br/>
-Master (2011-2013)<br/>
+M.S. (2011-2013)<br/>
 Mathematics<br/>
 
 Shanghai Jiao Tong University<br/>
