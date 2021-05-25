@@ -36,10 +36,9 @@ B.S. (2007-2011)<br/>
 Mathematics<br/>
 
 
-
 ### Publications
 #### 2020
-**Qinglong L. Gu**, Norman H. Lam,MichaelM. Halassa, John D.Murray (2021). [Computational Circuit Mechanisms Underlying Thalamic
+**Qinglong L. Gu**, Norman H. Lam, Ralf D. Wimmer, MichaelM. Halassa, John D.Murray (2021). [Computational Circuit Mechanisms Underlying Thalamic
 Control of Attention](../files/GuQL-etal-thalamusTopDown-2020.pdf). bioRxiv. [https://doi.org/10.1101/2020.09.16.300749](https://doi.org/10.1101/2020.09.16.300749)
 
 #### 2019
@@ -53,17 +52,16 @@ Control of Attention](../files/GuQL-etal-thalamusTopDown-2020.pdf). bioRxiv. [ht
 
 
 
-### Conference abstracts
-#### 2021
-**Ito T**, Klinger T, Schultz DH, Cole MW, Rigotti M (February 2021). [The role of compositional abstraction in human and artificial neural networks](../files/abstracts/2021Cosyne_ItoKlinger.png). Poster at Computational and Systems Neuroscience (Cosyne).
-
+### Conference posters
 #### 2020
-**Ito T**, Hearne LJ, Cole MW (June 2020). [Cognitive information differentiates between connectivity and activity across the cortical hierarchy](../files/abstracts/2020OHBM_ItoEtAl/ItoHearneCole_OHBM2020.pdf). Poster and talk presented at Organization for Human Brain Mapping (Virtual).
+**Qinglong L. Gu**, Norman H. Lam, MichaelM. Halassa, John D.Murray (February 2020). [Mechanisms of top-down attentional control in thalamic reticular circuit](../files/abstracts/2020Cosyne-Gu_etal/cosyne_2020_Poster_QinglongGu_NormanLam.pdf). Poster at Computational and Systems Neuroscience (_Cosyne_).
+
 
 #### 2019
-**Ito T**, Yang GR, Cocuzza CV, Schultz DH, Cole MW (June 2019). [Predicting motor behavior using neural encoding models during complex cognitive tasks](../files/abstracts/2019OHBM_ItoEtAl/2019_OHBMPoster_v2.jpg). Poster to be presented at Organization for Human Brain Mapping, Rome, Italy.
+**Qinglong L. Gu**, Norman H. Lam, MichaelM. Halassa, John D.Murray (October 2019). [Mechanisms of top-down attentional control in thalamic
+reticular circuits and effects of inhibitory dysfunction](../files/abstracts/2019SFN-Gu_etal/SfN_2019_Poster_QinglongGu_NormanLam.pdf). Poster at Society for Neuroscience (_SfN_).
 
-
+<!-- 
 **Ito T** & Schultz KM (February 2019). Computation across scales: From receptive fields to cognitive maps. Poster presented at Present and Future Frameworks of Theoretical Neuroscience, San Antonio TX.
 
 #### 2018
@@ -112,4 +110,4 @@ Cole MW, Schultz DH, Chen RH, Kulkarni KR, **Ito T**. (April, 2016). The cogniti
 
 
 
-
+ -->
