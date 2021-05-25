@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral associate at Yale University School of Medicine, working with Prof. John Murray. I was previously a PhD student at Shanghai Jiao Tong University with Prof. David Cai and Douglas Zhou.
+I am a postdoctoral associate at Yale University School of Medicine, working with Prof. [John Murray](https://medicine.yale.edu/lab/murray/). I was previously a PhD student at Shanghai Jiao Tong University with Prof. David Cai and [Douglas Zhou](https://ins.sjtu.edu.cn/people/zdz/).
 
 Please find more about my academic and professional bacground from my [CV](../files/CV_QinglongGu.pdf).
 
