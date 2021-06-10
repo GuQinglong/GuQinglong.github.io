@@ -13,7 +13,7 @@ Please find more about my academic and professional bacground from my [CV](../fi
 
 ### Research Interest
 
-I investigate cognitive neuronal dynamics through microcircuit models, and try to gain insights into the distributed computational mechanisms of various cognitive processes through large-scale modeling. The close interplay between modeling and experiment is at the heart of my research program. In the past, I have collaborated with experimentalists and analyzed data across a range of levels: neuronal spike train data,
+I am interested in investigating cognitive neuronal dynamics through microcircuit models, and also try to gain insights into the distributed computational mechanisms of various cognitive processes through large-scale modeling. The close interplay between modeling and experiment is at the heart of my research program. In the past, I have collaborated with experimentalists and analyzed data across a range of levels: neuronal spike train data,
 neuroimaging data, and cognitive behavioral data. I used a combination of statistical analysis and mathematical/computational modeling. 
 
 
