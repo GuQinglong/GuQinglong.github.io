@@ -47,11 +47,14 @@ B.S. Mathematics, (2007-2011)<br/>
 
 
 ### Conference
+#### 2021
+**Qinglong L. Gu**, Norman H. Lam, Rlaf D. Wimmer, Michael M. Halassa, John D.Murray (July 2021). [Computational circuit mechanisms underlying thalamic control of attention](../files/abstracts/2021OCNS-Gu_etal/CNS2021_CircuitModelThalamicControl.pdf). Poster at Computational Neuroscience (_CNS_).
+
 #### 2020
-**Qinglong L. Gu**, Norman H. Lam, MichaelM. Halassa, John D.Murray (February 2020). [Mechanisms of top-down attentional control in thalamic reticular circuit](../files/abstracts/2020Cosyne-Gu_etal/cosyne_2020_Poster_QinglongGu_NormanLam.pdf). Poster at Computational and Systems Neuroscience (_Cosyne_).
+**Qinglong L. Gu**, Norman H. Lam, Michael M. Halassa, John D.Murray (February 2020). [Mechanisms of top-down attentional control in thalamic reticular circuit](../files/abstracts/2020Cosyne-Gu_etal/cosyne_2020_Poster_QinglongGu_NormanLam.pdf). Poster at Computational and Systems Neuroscience (_Cosyne_).
 
 #### 2019
-**Qinglong L. Gu**, Norman H. Lam, MichaelM. Halassa, John D.Murray (October 2019). [Mechanisms of top-down attentional control in thalamic
+**Qinglong L. Gu**, Norman H. Lam, Michael M. Halassa, John D.Murray (October 2019). [Mechanisms of top-down attentional control in thalamic
 reticular circuits and effects of inhibitory dysfunction](../files/abstracts/2019SFN-Gu_etal/SfN_2019_Poster_QinglongGu_NormanLam.pdf). Poster at Society for Neuroscience (_SfN_).
 
 #### 2017
